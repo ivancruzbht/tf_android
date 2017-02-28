@@ -1,0 +1,3 @@
+/home/ivan/deep-learning/tf_android/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/rebuild_cache.dir
+/home/ivan/deep-learning/tf_android/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/edit_cache.dir
+/home/ivan/deep-learning/tf_android/app/.externalNativeBuild/cmake/release/mips/CMakeFiles/native-lib.dir

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tf-libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/lib/tf-libs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
