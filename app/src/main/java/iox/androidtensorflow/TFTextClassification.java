@@ -104,13 +104,13 @@ public class TFTextClassification {
         TFInference.runInference(outputNames);
 
         //TF output
-        int [] outputs = new int[1000];
-        if (outputs[0] == 1)
-            Log.i(TAG,"test");
+        int [] outputs = new int[1];
 
         TFInference.readNodeInt(outputNode, outputs);
 
         //Find the best classification
+
+        Log.d(TAG, "TF output: " + String.valueOf(outputs[0]));
         if (outputs[0] == 1)
             return POS_LABEL;
         if (outputs[0] == 0)

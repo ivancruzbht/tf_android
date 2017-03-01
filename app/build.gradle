@@ -40,6 +40,8 @@ android {
     //Adding Tensorflow Inference Java Interface
     sourceSets {
         main.java.srcDirs += tensorflow_location + 'tensorflow/contrib/android/java/'
+        main.java.srcDirs += tensorflow_location + 'tensorflow/java/src/main/java/org/tensorflow/'
+        main.java.exclude '**/examples/**'
     }
 
     aaptOptions { noCompress 'pb' }
@@ -62,7 +64,7 @@ task deleteTFLibs(type: Delete){
 }
 
 task copyTFLibs(type: Copy) {
-    from(tensorflow_location + 'bazel-bin/tensorflow/examples/android') { include '**/*.so' }
+    from(tensorflow_location + 'bazel-bin/tensorflow/contrib/android/') { include '**/*.so' }
     into nativeDir
     duplicatesStrategy = 'include'
 }

@@ -55,11 +55,6 @@ public class Dashboard extends AppCompatActivity {
         }
 
         classifier.initialize(assetMngr, model_file, vocab_file,input_node, output_node, num_classes);
-
-        // Example of a call to a native method
-        //TextView tv = (TextView) findViewById(R.id.sample_text);
-        //tv.setText(stringFromJNI());
-
     }
 
     public void btnSentimentOnClick(View view) {

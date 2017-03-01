@@ -3,6 +3,24 @@
 
     <item
         is-multidex="false"
+        jar="/home/ivan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_52622b81e21b4ecffa2fea8ee67c91bb47bf0211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3cbe1523220d41ca0f85967a3e6c648a7fd319e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -12,12 +30,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2cc525897f8426b319f1ed10b62b61d7f253564e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
         <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_a25e8baadfaedadc5f2a715d5673d42c5a5e0c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f72a14fe23bbbabd327d0dff5f0e8c59c9673df6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,66 +84,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_c7419730a0c62fbc92b964a2fe3e3a96cecfc42a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_82d4fcdfa1493ef5630b5af0af2e1bed3b77a6d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ivan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_52622b81e21b4ecffa2fea8ee67c91bb47bf0211.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3cbe1523220d41ca0f85967a3e6c648a7fd319e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2cc525897f8426b319f1ed10b62b61d7f253564e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f72a14fe23bbbabd327d0dff5f0e8c59c9673df6.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
         <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_fb8188b3eb8866205779662571c41b9722230d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_c7419730a0c62fbc92b964a2fe3e3a96cecfc42a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -135,6 +126,15 @@
         revision="25.0.1"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
         <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_dd5094c2efe599a8522cfb57bd54503b74d4bdaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ivan/deep-learning/tf_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ivan/deep-learning/tf_android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_82d4fcdfa1493ef5630b5af0af2e1bed3b77a6d0.jar" />
     </item>
     <item
         is-multidex="false"
