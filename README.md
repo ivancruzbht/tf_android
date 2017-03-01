@@ -1,6 +1,6 @@
 # Text Classification with TensorFlow in Android
 
-This is an Android app for english text classification using TensorFlow
+This is an Android Studio project of an Android app for english text classification using TensorFlow
 
 The CNN model and the vocab dictionary used by this app were generated with https://github.com/ivancruzbht/TextCNN
 
